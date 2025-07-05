@@ -1,0 +1,23 @@
+---------------------------------------------
+            Lovely Professional University
+---------------------------------------------
+Subject: dsa
+Date: 09-05-0000
+Time: 3 Hours
+Maximum Marks: 70
+---------------------------------------------
+
+Instructions:
+- Attempt all questions.
+- Write neat and legible answers.
+
+Q1. Explain preorder traversal. [6 Marks]
+Q2. Explain quicksort. [10 Marks]
+Q3. What is SQL injection? [8 Marks]
+Q4. Explain AVL trees. [10 Marks]
+Q5. Describe quicksort algorithm. [10 Marks]
+Q6. Define trees concept 2 (3-mark). [3 Marks]
+Q7. What is trees concept 4 (3-mark). [3 Marks]
+Q8. Describe trees concept 1 (5-mark). [5 Marks]
+Q9. Explain trees concept 3 (5-mark). [5 Marks]
+Q10. Explain trees concept 2 (10-mark). [10 Marks]

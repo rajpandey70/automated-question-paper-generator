@@ -1,0 +1,760 @@
+1|Explain recursion.|Functions|2|5
+2|Define array types.|Arrays|1|3
+3|Explain DFS.|Graphs|3|10
+4|What is a class in OOP?|OOP|2|4
+5|What is a pointer?|Pointers|1|3
+6|Explain binary search.|Searching|2|6
+7|Describe queue data structure.|Queues|1|4
+8|What is stack overflow?|Stacks|2|5
+9|Explain bubble sort.|Sorting|1|5
+10|What is dynamic memory allocation?|Memory|3|8
+11|Explain linked list.|Linked Lists|2|6
+12|Difference between array and linked list.|Data Structures|1|4
+13|Describe hash table.|Hashing|3|10
+14|What is inheritance in OOP?|OOP|2|6
+15|Explain virtual functions.|OOP|3|7
+16|What is a binary tree?|Trees|1|5
+17|Explain preorder traversal.|Trees|2|6
+18|Describe graph representations.|Graphs|3|10
+19|What is a deadlock?|Operating Systems|3|8
+20|Explain process scheduling.|Operating Systems|2|6
+21|Define stack.|Stacks|1|3
+22|What is a DLL?|Linked Lists|2|5
+23|Explain quicksort.|Sorting|3|10
+24|What is a semaphore?|Operating Systems|3|8
+25|Explain TCP/IP model.|Networking|2|6
+26|What is a firewall?|Networking|1|4
+27|Describe different types of databases.|Databases|2|5
+28|Explain normalization.|Databases|3|7
+29|What is SQL injection?|Security|3|8
+30|Define encapsulation.|OOP|2|5
+31|What is polymorphism?|OOP|2|6
+32|Explain DFS and BFS difference.|Graphs|2|7
+33|What is a hash collision?|Hashing|3|8
+34|Explain AVL trees.|Trees|3|10
+35|What is a priority queue?|Queues|2|6
+36|Describe the TCP handshake.|Networking|2|7
+37|What is the OSI model?|Networking|1|4
+38|Explain deadlock prevention.|Operating Systems|3|8
+39|What is a memory leak?|Memory|2|5
+40|Describe bubble sort complexity.|Sorting|1|3
+41|Explain doubly linked list.|Linked Lists|2|5
+42|What is a graph cycle?|Graphs|2|6
+43|Define binary heap.|Heaps|3|10
+44|Explain dynamic programming.|Algorithms|3|10
+45|What is a mutex?|Operating Systems|3|7
+46|Describe REST API.|Web|1|5
+47|Explain HTTP methods.|Web|1|4
+48|What is cloud computing?|General|1|5
+49|Define big O notation.|Algorithms|2|6
+50|What is greedy algorithm?|Algorithms|2|7
+51|Explain bubble sort algorithm.|Sorting|1|5
+52|Describe linked list advantages.|Linked Lists|1|4
+53|What is a binary search tree?|Trees|2|6
+54|Explain multithreading.|Operating Systems|3|8
+55|Define deadlock avoidance.|Operating Systems|3|8
+56|What is a routing protocol?|Networking|2|7
+57|Explain subnetting.|Networking|3|8
+58|Describe different types of databases.|Databases|2|5
+59|What is normalization in DBMS?|Databases|3|7
+60|Define virtual memory.|Operating Systems|2|6
+61|Explain stack operations.|Stacks|1|3
+62|What is a queue?|Queues|1|3
+63|Describe hashing.|Hashing|2|6
+64|What is encapsulation in OOP?|OOP|2|5
+65|Explain polymorphism in OOP.|OOP|2|6
+66|What is inheritance?|OOP|2|5
+67|Define class and object.|OOP|1|4
+68|Explain DFS traversal.|Graphs|2|6
+69|What is BFS traversal?|Graphs|2|6
+70|Describe quicksort algorithm.|Sorting|3|10
+71|What is merge sort?|Sorting|3|10
+72|Explain binary tree traversal.|Trees|2|6
+73|What is a linked list?|Linked Lists|1|4
+74|Define array.|Arrays|1|3
+75|What is a pointer?|Pointers|1|3
+76|Explain memory management.|Operating Systems|3|8
+77|Describe CPU scheduling.|Operating Systems|2|6
+78|What is deadlock?|Operating Systems|3|8
+79|Explain TCP/IP layers.|Networking|2|6
+80|What is firewall?|Networking|1|4
+81|Describe REST architecture.|Web|1|5
+82|Explain HTTP protocol.|Web|1|4
+83|What is cloud storage?|General|1|5
+84|Define algorithm.|Algorithms|1|3
+85|Explain binary search.|Searching|2|6
+86|What is linear search?|Searching|1|4
+87|Describe stack.|Stacks|1|3
+88|What is queue?|Queues|1|3
+89|Explain linked list.|Linked Lists|2|5
+90|What is tree data structure?|Trees|2|6
+91|Define graph.|Graphs|2|6
+92|Explain dynamic programming.|Algorithms|3|10
+93|What is greedy approach?|Algorithms|2|7
+94|Describe bubble sort.|Sorting|1|5
+95|What is merge sort?|Sorting|3|10
+96|Explain hash table.|Hashing|3|8
+97|What is priority queue?|Queues|2|6
+98|Define deadlock prevention.|Operating Systems|3|8
+99|Explain multithreading.|Operating Systems|3|8
+100|What is virtual memory?|Operating Systems|2|6
+101|Explain recursion with example.|Functions|2|5
+102|Define different array types.|Arrays|1|3
+103|Explain BFS.|Graphs|3|10
+104|What is abstraction in OOP?|OOP|2|4
+105|What is pointer arithmetic?|Pointers|1|3
+106|Explain linear search.|Searching|2|6
+107|Describe circular queue.|Queues|1|4
+108|What causes stack overflow?|Stacks|2|5
+109|Explain insertion sort.|Sorting|1|5
+110|What is memory fragmentation?|Memory|3|8
+111|Explain singly linked list.|Linked Lists|2|6
+112|Difference between stack and queue.|Data Structures|1|4
+113|Describe chaining in hash tables.|Hashing|3|10
+114|What is method overriding?|OOP|2|6
+115|Explain pure virtual functions.|OOP|3|7
+116|What is a full binary tree?|Trees|1|5
+117|Explain inorder traversal.|Trees|2|6
+118|Describe adjacency matrix.|Graphs|3|10
+119|What is starvation?|Operating Systems|3|8
+120|Explain context switching.|Operating Systems|2|6
+121|Define postfix expression.|Stacks|1|3
+122|What is a circular linked list?|Linked Lists|2|5
+123|Explain heapsort.|Sorting|3|10
+124|What is a mutex lock?|Operating Systems|3|8
+125|Explain UDP protocol.|Networking|2|6
+126|What is VPN?|Networking|1|4
+127|Describe relational databases.|Databases|2|5
+128|Explain denormalization.|Databases|3|7
+129|What is cross-site scripting?|Security|3|8
+130|Define constructor.|OOP|2|5
+131|What is interface?|OOP|2|6
+132|Explain weighted graphs.|Graphs|2|7
+133|What is rehashing?|Hashing|3|8
+134|Explain red-black trees.|Trees|3|10
+135|What is deque?|Queues|2|6
+136|Describe three-way handshake.|Networking|2|7
+137|What is the physical layer?|Networking|1|4
+138|Explain livelock.|Operating Systems|3|8
+139|What is garbage collection?|Memory|2|5
+140|Describe selection sort.|Sorting|1|3
+141|Explain sentinel node.|Linked Lists|2|5
+142|What is Eulerian path?|Graphs|2|6
+143|Define min heap.|Heaps|3|10
+144|Explain divide and conquer.|Algorithms|3|10
+145|What is spinlock?|Operating Systems|3|7
+146|Describe SOAP API.|Web|1|5
+147|Explain status codes in HTTP.|Web|1|4
+148|What is SaaS?|General|1|5
+149|Define time complexity.|Algorithms|2|6
+150|What is backtracking?|Algorithms|2|7
+151|Explain cocktail sort.|Sorting|1|5
+152|Describe sentinel search.|Searching|1|4
+153|What is threaded binary tree?|Trees|2|6
+154|Explain race condition.|Operating Systems|3|8
+155|Define priority inversion.|Operating Systems|3|8
+156|What is DNS?|Networking|2|7
+157|Explain CIDR.|Networking|3|8
+158|Describe object-oriented databases.|Databases|2|5
+159|What is transaction management?|Databases|3|7
+160|Define paging.|Operating Systems|2|6
+161|Explain push and pop operations.|Stacks|1|3
+162|What is dequeued?|Queues|1|3
+163|Describe open addressing.|Hashing|2|6
+164|What is polymorphism in C++?|OOP|2|5
+165|Explain friend functions.|OOP|2|6
+166|What is multiple inheritance?|OOP|2|5
+167|Define destructor.|OOP|1|4
+168|Explain adjacency list.|Graphs|2|6
+169|What is topological sorting?|Graphs|2|6
+170|Describe bucket sort.|Sorting|3|10
+171|What is external sorting?|Sorting|3|10
+172|Explain threaded programming.|Operating Systems|2|6
+173|What is a doubly linked list?|Linked Lists|1|4
+174|Define multidimensional array.|Arrays|1|3
+175|What is wild pointer?|Pointers|1|3
+176|Explain segmentation.|Operating Systems|3|8
+177|Describe multilevel queue scheduling.|Operating Systems|2|6
+178|What is a semaphore?|Operating Systems|3|8
+179|Explain ARP.|Networking|2|6
+180|What is proxy server?|Networking|1|4
+181|Describe GraphQL.|Web|1|5
+182|Explain cookies.|Web|1|4
+183|What is PaaS?|General|1|5
+184|Define data structure.|Algorithms|1|3
+185|Explain exponential search.|Searching|2|6
+186|What is sentinel value?|Searching|1|4
+187|Describe circular stack.|Stacks|1|3
+188|What is priority scheduling?|Operating Systems|2|5
+189|Explain singly linked list.|Linked Lists|2|5
+190|What is binary search tree property?|Trees|2|6
+191|Define weighted graph.|Graphs|2|6
+192|Explain memoization.|Algorithms|3|10
+193|What is branch and bound?|Algorithms|2|7
+194|Describe cocktail shaker sort.|Sorting|1|5
+195|What is radix sort?|Sorting|3|10
+196|Explain perfect hashing.|Hashing|3|8
+197|What is circular queue?|Queues|2|6
+198|Define deadlock detection.|Operating Systems|3|8
+199|Explain thread synchronization.|Operating Systems|3|8
+200|What is swapping?|Operating Systems|2|6
+201|Define stack and explain its uses.|Stacks|1|2
+202|Explain stack implementation using arrays.|Stacks|2|5
+203|Write infix to postfix conversion algorithm.|Stacks|3|10
+204|What is stack overflow? Give example.|Stacks|2|5
+205|Implement a stack using linked list.|Stacks|3|10
+206|Define queue and its operations.|Queues|1|2
+207|Difference between queue and stack.|Queues|2|5
+208|Explain circular queue with diagram.|Queues|3|10
+209|Implement queue using two stacks.|Queues|3|10
+210|What is dequeue and its use case?|Queues|2|5
+211|Define linked list.|Linked List|1|2
+212|Difference between array and linked list.|Linked List|1|2
+213|Write program to insert node in singly linked list.|Linked List|2|5
+214|Delete a node from doubly linked list.|Linked List|2|5
+215|Explain circular linked list with code.|Linked List|3|10
+216|What is hashing?|Hashing|1|2
+217|Difference between open and closed hashing.|Hashing|2|5
+218|What is hash collision and how to resolve it?|Hashing|2|5
+219|Implement hash table using linear probing.|Hashing|3|10
+220|Use hash map to count word frequency.|Hashing|3|10
+221|What is greedy algorithm?|Greedy|1|2
+222|Explain activity selection problem.|Greedy|2|5
+223|Implement fractional knapsack problem.|Greedy|3|10
+224|Compare greedy and dynamic programming.|Greedy|2|5
+225|Explain job sequencing with deadlines.|Greedy|3|10
+226|What is dynamic programming?|DP|1|2
+227|Fibonacci using dynamic programming.|DP|2|5
+228|Explain 0/1 knapsack problem.|DP|3|10
+229|Implement longest common subsequence.|DP|3|10
+230|Difference between recursion and DP.|DP|2|5
+231|Define backtracking.|Backtracking|1|2
+232|Solve N-Queens using backtracking.|Backtracking|3|10
+233|Explain Sudoku solver algorithm.|Backtracking|3|10
+234|Write backtracking algorithm to find subset sum.|Backtracking|2|5
+235|Difference between backtracking and DP.|Backtracking|2|5
+236|Define graph traversal.|Graphs|1|2
+237|What is Dijkstra’s algorithm?|Graphs|2|5
+238|Implement Dijkstra’s algorithm.|Graphs|3|10
+239|What is Prim’s algorithm?|Graphs|2|5
+240|Implement Kruskal’s MST algorithm.|Graphs|3|10
+241|What is a heap?|Heaps|1|2
+242|Difference between min heap and max heap.|Heaps|2|5
+243|Implement min heap insertion.|Heaps|2|5
+244|Use heap for priority queue.|Heaps|3|10
+245|Heap sort algorithm and implementation.|Heaps|3|10
+246|Define trie.|Tries|1|2
+247|Use trie to store dictionary words.|Tries|2|5
+248|Implement autocomplete using trie.|Tries|3|10
+249|Difference between trie and BST.|Tries|2|5
+250|Insert and search in trie.|Tries|2|5
+251|Define set and multiset in C++.|STL|1|2
+252|Difference between vector and list.|STL|2|5
+253|Explain use of map in STL.|STL|2|5
+254|Implement a priority queue using STL.|STL|3|10
+255|What are iterators in STL?|STL|2|5
+256|What is memory leak?|Memory|1|2
+257|How to avoid memory leaks in C++?|Memory|2|5
+258|Explain smart pointers in C++.|Memory|3|10
+259|Write program using shared_ptr.|Memory|3|10
+260|Explain dangling pointer.|Memory|2|5
+261|What is segmentation fault?|Errors|1|2
+262|Common causes of runtime errors in C++.|Errors|2|5
+263|Handle division by zero exception.|Errors|2|5
+264|Explain try-catch block in C++.|Errors|2|5
+265|Implement exception handling for array bounds.|Errors|3|10
+266|What is a constructor?|OOP|1|2
+267|Types of constructors in C++.|OOP|2|5
+268|What is destructor and its use?|OOP|1|2
+269|Explain friend function with example.|OOP|2|5
+270|What is function overloading?|OOP|2|5
+271|Difference between overloading and overriding.|OOP|2|5
+272|Define abstract class with example.|OOP|3|10
+273|Explain interface in C++ using pure virtual functions.|OOP|3|10
+274|What is runtime polymorphism?|OOP|2|5
+275|Use case of static members in class.|OOP|2|5
+276|What is template in C++?|Templates|1|2
+277|Write a function template example.|Templates|2|5
+278|Write a class template example.|Templates|2|5
+279|Template specialization in C++.|Templates|3|10
+280|Explain benefits of templates.|Templates|1|2
+281|Define namespace.|C++ Basics|1|2
+282|What is scope resolution operator?|C++ Basics|1|2
+283|Explain default arguments in function.|C++ Basics|1|2
+284|Difference between malloc and new.|C++ Basics|2|5
+285|Use const keyword in C++.|C++ Basics|2|5
+286|What is preprocessor directive?|C++ Basics|1|2
+287|Explain #define and #include.|C++ Basics|1|2
+288|Use of inline functions.|C++ Basics|2|5
+289|What are command line arguments?|C++ Basics|2|5
+290|Difference between struct and class.|C++ Basics|2|5
+291|What is multithreading?|Advanced|1|2
+292|Benefits of multithreading in C++.|Advanced|2|5
+293|Implement thread using std::thread.|Advanced|3|10
+294|Explain race condition and how to avoid.|Advanced|3|10
+295|Use mutex in C++ threading.|Advanced|3|10
+296|What is lambda function in C++?|Advanced|2|5
+297|What are function objects (functors)?|Advanced|2|5
+298|Explain move semantics.|Advanced|3|10
+299|What is rvalue reference?|Advanced|3|10
+300|Use std::move in example.|Advanced|3|10
+301|Difference between shallow and deep copy.|OOP|2|5
+302|What is copy constructor?|OOP|1|2
+303|Explain move constructor.|OOP|3|10
+304|Use initializer list in constructor.|OOP|2|5
+305|What is static_cast in C++?|C++ Basics|2|5
+306|Use dynamic_cast in inheritance.|C++ Basics|3|10
+307|Explain reinterpret_cast with use.|C++ Basics|3|10
+308|What is typeid in C++?|C++ Basics|2|5
+309|What is STL container adaptor?|STL|2|5
+310|Difference between stack and queue in STL.|STL|2|5
+311|Use priority_queue in real-world example.|STL|3|10
+312|Define algorithm header in STL.|STL|1|2
+313|Use std::sort and std::find.|STL|2|5
+314|Explain difference between const and constexpr.|C++ Basics|3|10
+315|Write function returning reference.|C++ Basics|2|5
+316|Explain scope of local vs global variables.|C++ Basics|1|2
+317|How to pass array to function.|Functions|1|2
+318|What is segmentation fault?|Errors|1|2
+319|Difference between compile-time and runtime errors.|Errors|1|2
+320|Explain operator overloading in C++.|OOP|3|10
+201|Define a variable in C++.|basics|1|1
+202|What is the purpose of the 'return' keyword?|basics|1|1
+203|Differentiate between while and do-while loop.|loops|2|2
+204|What is recursion? Give an example.|functions|2|3
+205|Explain the concept of function overloading.|functions|2|3
+206|Implement a stack using an array.|data structures|3|5
+207|What is dynamic memory allocation? Explain with example.|memory|3|5
+208|Compare and contrast array and linked list.|data structures|2|3
+209|What are inline functions? When are they used?|functions|2|2
+210|Explain binary search algorithm with code.|searching|2|5
+211|Define object and class in OOP.|oop|1|1
+212|What is inheritance in OOP? Explain types.|oop|2|5
+213|What are the basic principles of OOP?|oop|2|3
+214|Explain depth-first search algorithm.|graphs|3|5
+215|Differentiate between BFS and DFS.|graphs|3|3
+216|Write code to reverse a linked list.|linked list|3|5
+217|Explain quicksort algorithm with example.|sorting|3|5
+218|What is a constructor? How is it different from a method?|oop|1|2
+219|Explain friend function with a code example.|oop|3|5
+220|Describe different types of errors in C++.|basics|1|2
+221|Implement a queue using two stacks.|data structures|3|10
+222|What is polymorphism? Explain with an example.|oop|2|5
+223|Explain operator overloading with an example.|oop|3|5
+224|Write a program to find the factorial of a number using recursion.|functions|2|3
+225|What is the difference between compile-time and run-time? Give examples.|basics|1|2
+226|Explain circular queue and its operations.|data structures|3|5
+227|Explain the role of the preprocessor directive #include.|basics|1|1
+228|Define a pointer and explain pointer arithmetic.|pointers|2|3
+229|What is a segmentation fault? What causes it?|memory|3|2
+230|Explain the concept of time complexity.|algorithms|2|3
+231|Write a program to merge two sorted arrays.|arrays|2|3
+232|Define dynamic programming and its applications.|dp|3|5
+233|Give real-life applications of graphs.|graphs|1|2
+234|Explain Dijkstra’s algorithm with an example.|graphs|3|10
+235|What is STL in C++? Explain its importance.|stl|2|3
+236|What are iterators in STL?|stl|2|2
+237|Difference between stack and heap memory.|memory|2|3
+238|What is a virtual function in C++?|oop|3|3
+239|Create a class to represent a bank account with deposit/withdraw.|oop|2|5
+240|Discuss use of templates in C++ with example.|stl|3|5
+201|What is arrays concept 1 (1-mark).|arrays|3|1
+202|Explain arrays concept 2 (1-mark).|arrays|1|1
+203|Explain arrays concept 3 (1-mark).|arrays|1|1
+204|Define arrays concept 4 (1-mark).|arrays|2|1
+205|Define arrays concept 1 (2-mark).|arrays|3|2
+206|Define arrays concept 2 (2-mark).|arrays|2|2
+207|Describe arrays concept 3 (2-mark).|arrays|2|2
+208|Describe arrays concept 4 (2-mark).|arrays|1|2
+209|Describe arrays concept 1 (3-mark).|arrays|1|3
+210|What is arrays concept 2 (3-mark).|arrays|2|3
+211|Illustrate arrays concept 3 (3-mark).|arrays|3|3
+212|Explain arrays concept 4 (3-mark).|arrays|3|3
+213|Illustrate arrays concept 1 (5-mark).|arrays|1|5
+214|Explain arrays concept 2 (5-mark).|arrays|3|5
+215|What is arrays concept 3 (5-mark).|arrays|2|5
+216|Illustrate arrays concept 4 (5-mark).|arrays|2|5
+217|Illustrate arrays concept 1 (10-mark).|arrays|2|10
+218|Define arrays concept 2 (10-mark).|arrays|3|10
+219|Define arrays concept 3 (10-mark).|arrays|1|10
+220|Define arrays concept 4 (10-mark).|arrays|3|10
+221|What is linked lists concept 1 (1-mark).|linked lists|2|1
+222|Explain linked lists concept 2 (1-mark).|linked lists|3|1
+223|Illustrate linked lists concept 3 (1-mark).|linked lists|3|1
+224|Explain linked lists concept 4 (1-mark).|linked lists|3|1
+225|What is linked lists concept 1 (2-mark).|linked lists|1|2
+226|Explain linked lists concept 2 (2-mark).|linked lists|1|2
+227|Describe linked lists concept 3 (2-mark).|linked lists|1|2
+228|Describe linked lists concept 4 (2-mark).|linked lists|1|2
+229|Illustrate linked lists concept 1 (3-mark).|linked lists|2|3
+230|Describe linked lists concept 2 (3-mark).|linked lists|1|3
+231|Illustrate linked lists concept 3 (3-mark).|linked lists|2|3
+232|Define linked lists concept 4 (3-mark).|linked lists|3|3
+233|Describe linked lists concept 1 (5-mark).|linked lists|1|5
+234|Explain linked lists concept 2 (5-mark).|linked lists|1|5
+235|Explain linked lists concept 3 (5-mark).|linked lists|2|5
+236|Explain linked lists concept 4 (5-mark).|linked lists|1|5
+237|Explain linked lists concept 1 (10-mark).|linked lists|1|10
+238|What is linked lists concept 2 (10-mark).|linked lists|2|10
+239|Illustrate linked lists concept 3 (10-mark).|linked lists|3|10
+240|Define linked lists concept 4 (10-mark).|linked lists|1|10
+241|Illustrate stacks concept 1 (1-mark).|stacks|1|1
+242|Define stacks concept 2 (1-mark).|stacks|3|1
+243|Define stacks concept 3 (1-mark).|stacks|1|1
+244|Illustrate stacks concept 4 (1-mark).|stacks|2|1
+245|Explain stacks concept 1 (2-mark).|stacks|1|2
+246|Explain stacks concept 2 (2-mark).|stacks|2|2
+247|Describe stacks concept 3 (2-mark).|stacks|3|2
+248|What is stacks concept 4 (2-mark).|stacks|2|2
+249|Illustrate stacks concept 1 (3-mark).|stacks|1|3
+250|Define stacks concept 2 (3-mark).|stacks|1|3
+251|Describe stacks concept 3 (3-mark).|stacks|3|3
+252|Describe stacks concept 4 (3-mark).|stacks|1|3
+253|Illustrate stacks concept 1 (5-mark).|stacks|2|5
+254|Describe stacks concept 2 (5-mark).|stacks|1|5
+255|Describe stacks concept 3 (5-mark).|stacks|3|5
+256|Illustrate stacks concept 4 (5-mark).|stacks|3|5
+257|Define stacks concept 1 (10-mark).|stacks|1|10
+258|Define stacks concept 2 (10-mark).|stacks|1|10
+259|What is stacks concept 3 (10-mark).|stacks|3|10
+260|Describe stacks concept 4 (10-mark).|stacks|2|10
+261|Define queues concept 1 (1-mark).|queues|3|1
+262|What is queues concept 2 (1-mark).|queues|1|1
+263|Illustrate queues concept 3 (1-mark).|queues|3|1
+264|What is queues concept 4 (1-mark).|queues|2|1
+265|Illustrate queues concept 1 (2-mark).|queues|1|2
+266|What is queues concept 2 (2-mark).|queues|1|2
+267|Describe queues concept 3 (2-mark).|queues|2|2
+268|Illustrate queues concept 4 (2-mark).|queues|3|2
+269|What is queues concept 1 (3-mark).|queues|2|3
+270|Describe queues concept 2 (3-mark).|queues|2|3
+271|Illustrate queues concept 3 (3-mark).|queues|1|3
+272|Define queues concept 4 (3-mark).|queues|2|3
+273|Define queues concept 1 (5-mark).|queues|2|5
+274|Explain queues concept 2 (5-mark).|queues|1|5
+275|Describe queues concept 3 (5-mark).|queues|1|5
+276|Explain queues concept 4 (5-mark).|queues|1|5
+277|Define queues concept 1 (10-mark).|queues|3|10
+278|Define queues concept 2 (10-mark).|queues|3|10
+279|Define queues concept 3 (10-mark).|queues|2|10
+280|Explain queues concept 4 (10-mark).|queues|2|10
+281|Describe trees concept 1 (1-mark).|trees|3|1
+282|Explain trees concept 2 (1-mark).|trees|2|1
+283|Define trees concept 3 (1-mark).|trees|3|1
+284|Explain trees concept 4 (1-mark).|trees|2|1
+285|What is trees concept 1 (2-mark).|trees|2|2
+286|What is trees concept 2 (2-mark).|trees|2|2
+287|Describe trees concept 3 (2-mark).|trees|2|2
+288|Define trees concept 4 (2-mark).|trees|1|2
+289|Explain trees concept 1 (3-mark).|trees|2|3
+290|Define trees concept 2 (3-mark).|trees|2|3
+291|What is trees concept 3 (3-mark).|trees|1|3
+292|What is trees concept 4 (3-mark).|trees|2|3
+293|Describe trees concept 1 (5-mark).|trees|3|5
+294|Define trees concept 2 (5-mark).|trees|1|5
+295|Explain trees concept 3 (5-mark).|trees|3|5
+296|Illustrate trees concept 4 (5-mark).|trees|1|5
+297|Illustrate trees concept 1 (10-mark).|trees|3|10
+298|Explain trees concept 2 (10-mark).|trees|3|10
+299|Describe trees concept 3 (10-mark).|trees|3|10
+300|Define trees concept 4 (10-mark).|trees|3|10
+301|What is graphs concept 1 (1-mark).|graphs|3|1
+302|Define graphs concept 2 (1-mark).|graphs|1|1
+303|Illustrate graphs concept 3 (1-mark).|graphs|1|1
+304|Describe graphs concept 4 (1-mark).|graphs|3|1
+305|Explain graphs concept 1 (2-mark).|graphs|2|2
+306|What is graphs concept 2 (2-mark).|graphs|2|2
+307|Describe graphs concept 3 (2-mark).|graphs|1|2
+308|Explain graphs concept 4 (2-mark).|graphs|1|2
+309|Explain graphs concept 1 (3-mark).|graphs|3|3
+310|What is graphs concept 2 (3-mark).|graphs|2|3
+311|What is graphs concept 3 (3-mark).|graphs|1|3
+312|Define graphs concept 4 (3-mark).|graphs|3|3
+313|What is graphs concept 1 (5-mark).|graphs|3|5
+314|What is graphs concept 2 (5-mark).|graphs|1|5
+315|Illustrate graphs concept 3 (5-mark).|graphs|2|5
+316|Explain graphs concept 4 (5-mark).|graphs|2|5
+317|Define graphs concept 1 (10-mark).|graphs|3|10
+318|Describe graphs concept 2 (10-mark).|graphs|3|10
+319|What is graphs concept 3 (10-mark).|graphs|3|10
+320|Explain graphs concept 4 (10-mark).|graphs|3|10
+321|Illustrate sorting concept 1 (1-mark).|sorting|3|1
+322|Explain sorting concept 2 (1-mark).|sorting|3|1
+323|Describe sorting concept 3 (1-mark).|sorting|2|1
+324|What is sorting concept 4 (1-mark).|sorting|3|1
+325|What is sorting concept 1 (2-mark).|sorting|1|2
+326|What is sorting concept 2 (2-mark).|sorting|1|2
+327|Define sorting concept 3 (2-mark).|sorting|2|2
+328|Define sorting concept 4 (2-mark).|sorting|1|2
+329|Explain sorting concept 1 (3-mark).|sorting|1|3
+330|What is sorting concept 2 (3-mark).|sorting|2|3
+331|Describe sorting concept 3 (3-mark).|sorting|2|3
+332|Describe sorting concept 4 (3-mark).|sorting|2|3
+333|What is sorting concept 1 (5-mark).|sorting|2|5
+334|Define sorting concept 2 (5-mark).|sorting|2|5
+335|Explain sorting concept 3 (5-mark).|sorting|1|5
+336|What is sorting concept 4 (5-mark).|sorting|1|5
+337|Illustrate sorting concept 1 (10-mark).|sorting|3|10
+338|Define sorting concept 2 (10-mark).|sorting|2|10
+339|Explain sorting concept 3 (10-mark).|sorting|1|10
+340|Define sorting concept 4 (10-mark).|sorting|2|10
+341|Define searching concept 1 (1-mark).|searching|1|1
+342|Define searching concept 2 (1-mark).|searching|2|1
+343|Illustrate searching concept 3 (1-mark).|searching|2|1
+344|Describe searching concept 4 (1-mark).|searching|3|1
+345|Illustrate searching concept 1 (2-mark).|searching|1|2
+346|Describe searching concept 2 (2-mark).|searching|1|2
+347|Explain searching concept 3 (2-mark).|searching|2|2
+348|Explain searching concept 4 (2-mark).|searching|2|2
+349|What is searching concept 1 (3-mark).|searching|1|3
+350|Define searching concept 2 (3-mark).|searching|1|3
+351|What is searching concept 3 (3-mark).|searching|2|3
+352|Illustrate searching concept 4 (3-mark).|searching|2|3
+353|Describe searching concept 1 (5-mark).|searching|2|5
+354|Define searching concept 2 (5-mark).|searching|3|5
+355|What is searching concept 3 (5-mark).|searching|2|5
+356|Illustrate searching concept 4 (5-mark).|searching|1|5
+357|Explain searching concept 1 (10-mark).|searching|2|10
+358|Explain searching concept 2 (10-mark).|searching|1|10
+359|Define searching concept 3 (10-mark).|searching|1|10
+360|What is searching concept 4 (10-mark).|searching|3|10
+361|What is recursion concept 1 (1-mark).|recursion|2|1
+362|Describe recursion concept 2 (1-mark).|recursion|2|1
+363|Explain recursion concept 3 (1-mark).|recursion|1|1
+364|Illustrate recursion concept 4 (1-mark).|recursion|1|1
+365|Define recursion concept 1 (2-mark).|recursion|3|2
+366|What is recursion concept 2 (2-mark).|recursion|2|2
+367|Illustrate recursion concept 3 (2-mark).|recursion|2|2
+368|Illustrate recursion concept 4 (2-mark).|recursion|2|2
+369|Illustrate recursion concept 1 (3-mark).|recursion|2|3
+370|Describe recursion concept 2 (3-mark).|recursion|2|3
+371|What is recursion concept 3 (3-mark).|recursion|3|3
+372|Describe recursion concept 4 (3-mark).|recursion|1|3
+373|What is recursion concept 1 (5-mark).|recursion|3|5
+374|Illustrate recursion concept 2 (5-mark).|recursion|3|5
+375|Explain recursion concept 3 (5-mark).|recursion|3|5
+376|Describe recursion concept 4 (5-mark).|recursion|3|5
+377|Illustrate recursion concept 1 (10-mark).|recursion|1|10
+378|What is recursion concept 2 (10-mark).|recursion|3|10
+379|Explain recursion concept 3 (10-mark).|recursion|1|10
+380|Explain recursion concept 4 (10-mark).|recursion|3|10
+381|Explain dynamic programming concept 1 (1-mark).|dynamic programming|2|1
+382|Illustrate dynamic programming concept 2 (1-mark).|dynamic programming|1|1
+383|Illustrate dynamic programming concept 3 (1-mark).|dynamic programming|3|1
+384|Describe dynamic programming concept 4 (1-mark).|dynamic programming|2|1
+385|Define dynamic programming concept 1 (2-mark).|dynamic programming|1|2
+386|Explain dynamic programming concept 2 (2-mark).|dynamic programming|2|2
+387|Explain dynamic programming concept 3 (2-mark).|dynamic programming|1|2
+388|Describe dynamic programming concept 4 (2-mark).|dynamic programming|2|2
+389|Define dynamic programming concept 1 (3-mark).|dynamic programming|3|3
+390|What is dynamic programming concept 2 (3-mark).|dynamic programming|1|3
+391|Define dynamic programming concept 3 (3-mark).|dynamic programming|3|3
+392|Define dynamic programming concept 4 (3-mark).|dynamic programming|3|3
+393|Describe dynamic programming concept 1 (5-mark).|dynamic programming|2|5
+394|Illustrate dynamic programming concept 2 (5-mark).|dynamic programming|3|5
+395|What is dynamic programming concept 3 (5-mark).|dynamic programming|3|5
+396|Define dynamic programming concept 4 (5-mark).|dynamic programming|1|5
+397|Explain dynamic programming concept 1 (10-mark).|dynamic programming|3|10
+398|Describe dynamic programming concept 2 (10-mark).|dynamic programming|1|10
+399|Illustrate dynamic programming concept 3 (10-mark).|dynamic programming|3|10
+400|What is dynamic programming concept 4 (10-mark).|dynamic programming|2|10
+401|Describe greedy concept 1 (1-mark).|greedy|3|1
+402|Define greedy concept 2 (1-mark).|greedy|2|1
+403|Illustrate greedy concept 3 (1-mark).|greedy|1|1
+404|Describe greedy concept 4 (1-mark).|greedy|3|1
+405|Explain greedy concept 1 (2-mark).|greedy|1|2
+406|Explain greedy concept 2 (2-mark).|greedy|1|2
+407|Explain greedy concept 3 (2-mark).|greedy|1|2
+408|Describe greedy concept 4 (2-mark).|greedy|3|2
+409|Illustrate greedy concept 1 (3-mark).|greedy|2|3
+410|Describe greedy concept 2 (3-mark).|greedy|3|3
+411|Define greedy concept 3 (3-mark).|greedy|3|3
+412|Explain greedy concept 4 (3-mark).|greedy|1|3
+413|Illustrate greedy concept 1 (5-mark).|greedy|2|5
+414|Describe greedy concept 2 (5-mark).|greedy|1|5
+415|Describe greedy concept 3 (5-mark).|greedy|1|5
+416|Illustrate greedy concept 4 (5-mark).|greedy|2|5
+417|Describe greedy concept 1 (10-mark).|greedy|2|10
+418|Explain greedy concept 2 (10-mark).|greedy|1|10
+419|Illustrate greedy concept 3 (10-mark).|greedy|1|10
+420|Explain greedy concept 4 (10-mark).|greedy|3|10
+421|Describe backtracking concept 1 (1-mark).|backtracking|1|1
+422|Illustrate backtracking concept 2 (1-mark).|backtracking|3|1
+423|Define backtracking concept 3 (1-mark).|backtracking|1|1
+424|Describe backtracking concept 4 (1-mark).|backtracking|1|1
+425|What is backtracking concept 1 (2-mark).|backtracking|2|2
+426|Describe backtracking concept 2 (2-mark).|backtracking|1|2
+427|Explain backtracking concept 3 (2-mark).|backtracking|3|2
+428|Illustrate backtracking concept 4 (2-mark).|backtracking|3|2
+429|What is backtracking concept 1 (3-mark).|backtracking|3|3
+430|Explain backtracking concept 2 (3-mark).|backtracking|2|3
+431|Describe backtracking concept 3 (3-mark).|backtracking|1|3
+432|Define backtracking concept 4 (3-mark).|backtracking|3|3
+433|Describe backtracking concept 1 (5-mark).|backtracking|3|5
+434|Describe backtracking concept 2 (5-mark).|backtracking|1|5
+435|What is backtracking concept 3 (5-mark).|backtracking|3|5
+436|Describe backtracking concept 4 (5-mark).|backtracking|3|5
+437|Illustrate backtracking concept 1 (10-mark).|backtracking|1|10
+438|Define backtracking concept 2 (10-mark).|backtracking|2|10
+439|Illustrate backtracking concept 3 (10-mark).|backtracking|2|10
+440|Describe backtracking concept 4 (10-mark).|backtracking|1|10
+441|What is bit manipulation concept 1 (1-mark).|bit manipulation|2|1
+442|Describe bit manipulation concept 2 (1-mark).|bit manipulation|2|1
+443|Explain bit manipulation concept 3 (1-mark).|bit manipulation|2|1
+444|Define bit manipulation concept 4 (1-mark).|bit manipulation|3|1
+445|Define bit manipulation concept 1 (2-mark).|bit manipulation|3|2
+446|Explain bit manipulation concept 2 (2-mark).|bit manipulation|3|2
+447|Explain bit manipulation concept 3 (2-mark).|bit manipulation|1|2
+448|Illustrate bit manipulation concept 4 (2-mark).|bit manipulation|1|2
+449|Explain bit manipulation concept 1 (3-mark).|bit manipulation|1|3
+450|Define bit manipulation concept 2 (3-mark).|bit manipulation|2|3
+451|What is bit manipulation concept 3 (3-mark).|bit manipulation|3|3
+452|Illustrate bit manipulation concept 4 (3-mark).|bit manipulation|1|3
+453|Describe bit manipulation concept 1 (5-mark).|bit manipulation|2|5
+454|What is bit manipulation concept 2 (5-mark).|bit manipulation|2|5
+455|What is bit manipulation concept 3 (5-mark).|bit manipulation|2|5
+456|What is bit manipulation concept 4 (5-mark).|bit manipulation|3|5
+457|Describe bit manipulation concept 1 (10-mark).|bit manipulation|1|10
+458|What is bit manipulation concept 2 (10-mark).|bit manipulation|3|10
+459|Describe bit manipulation concept 3 (10-mark).|bit manipulation|1|10
+460|Explain bit manipulation concept 4 (10-mark).|bit manipulation|2|10
+461|Define hashing concept 1 (1-mark).|hashing|2|1
+462|Define hashing concept 2 (1-mark).|hashing|2|1
+463|What is hashing concept 3 (1-mark).|hashing|3|1
+464|What is hashing concept 4 (1-mark).|hashing|2|1
+465|Explain hashing concept 1 (2-mark).|hashing|2|2
+466|What is hashing concept 2 (2-mark).|hashing|3|2
+467|What is hashing concept 3 (2-mark).|hashing|2|2
+468|Define hashing concept 4 (2-mark).|hashing|3|2
+469|Describe hashing concept 1 (3-mark).|hashing|2|3
+470|What is hashing concept 2 (3-mark).|hashing|1|3
+471|What is hashing concept 3 (3-mark).|hashing|2|3
+472|Describe hashing concept 4 (3-mark).|hashing|3|3
+473|Illustrate hashing concept 1 (5-mark).|hashing|2|5
+474|Describe hashing concept 2 (5-mark).|hashing|2|5
+475|Illustrate hashing concept 3 (5-mark).|hashing|1|5
+476|What is hashing concept 4 (5-mark).|hashing|2|5
+477|Define hashing concept 1 (10-mark).|hashing|3|10
+478|What is hashing concept 2 (10-mark).|hashing|3|10
+479|Illustrate hashing concept 3 (10-mark).|hashing|1|10
+480|Explain hashing concept 4 (10-mark).|hashing|2|10
+481|Explain heaps concept 1 (1-mark).|heaps|3|1
+482|Illustrate heaps concept 2 (1-mark).|heaps|3|1
+483|Define heaps concept 3 (1-mark).|heaps|1|1
+484|What is heaps concept 4 (1-mark).|heaps|3|1
+485|Describe heaps concept 1 (2-mark).|heaps|2|2
+486|Define heaps concept 2 (2-mark).|heaps|3|2
+487|Define heaps concept 3 (2-mark).|heaps|2|2
+488|What is heaps concept 4 (2-mark).|heaps|1|2
+489|What is heaps concept 1 (3-mark).|heaps|3|3
+490|Explain heaps concept 2 (3-mark).|heaps|2|3
+491|Define heaps concept 3 (3-mark).|heaps|1|3
+492|Describe heaps concept 4 (3-mark).|heaps|2|3
+493|Illustrate heaps concept 1 (5-mark).|heaps|1|5
+494|Illustrate heaps concept 2 (5-mark).|heaps|1|5
+495|Illustrate heaps concept 3 (5-mark).|heaps|2|5
+496|Describe heaps concept 4 (5-mark).|heaps|1|5
+497|Explain heaps concept 1 (10-mark).|heaps|3|10
+498|Illustrate heaps concept 2 (10-mark).|heaps|3|10
+499|Illustrate heaps concept 3 (10-mark).|heaps|3|10
+500|What is heaps concept 4 (10-mark).|heaps|1|10
+501|Define strings concept 1 (1-mark).|strings|3|1
+502|What is strings concept 2 (1-mark).|strings|3|1
+503|What is strings concept 3 (1-mark).|strings|2|1
+504|What is strings concept 4 (1-mark).|strings|3|1
+505|Explain strings concept 1 (2-mark).|strings|1|2
+506|Describe strings concept 2 (2-mark).|strings|1|2
+507|Illustrate strings concept 3 (2-mark).|strings|2|2
+508|Illustrate strings concept 4 (2-mark).|strings|1|2
+509|Explain strings concept 1 (3-mark).|strings|2|3
+510|Explain strings concept 2 (3-mark).|strings|3|3
+511|Describe strings concept 3 (3-mark).|strings|3|3
+512|Describe strings concept 4 (3-mark).|strings|2|3
+513|Define strings concept 1 (5-mark).|strings|1|5
+514|Illustrate strings concept 2 (5-mark).|strings|1|5
+515|Illustrate strings concept 3 (5-mark).|strings|2|5
+516|Illustrate strings concept 4 (5-mark).|strings|2|5
+517|Define strings concept 1 (10-mark).|strings|1|10
+518|Explain strings concept 2 (10-mark).|strings|1|10
+519|What is strings concept 3 (10-mark).|strings|2|10
+520|Define strings concept 4 (10-mark).|strings|2|10
+521|Describe mathematics concept 1 (1-mark).|mathematics|3|1
+522|What is mathematics concept 2 (1-mark).|mathematics|2|1
+523|Define mathematics concept 3 (1-mark).|mathematics|2|1
+524|Describe mathematics concept 4 (1-mark).|mathematics|3|1
+525|Describe mathematics concept 1 (2-mark).|mathematics|2|2
+526|Explain mathematics concept 2 (2-mark).|mathematics|2|2
+527|Explain mathematics concept 3 (2-mark).|mathematics|3|2
+528|What is mathematics concept 4 (2-mark).|mathematics|3|2
+529|Describe mathematics concept 1 (3-mark).|mathematics|3|3
+530|Describe mathematics concept 2 (3-mark).|mathematics|3|3
+531|Explain mathematics concept 3 (3-mark).|mathematics|2|3
+532|Define mathematics concept 4 (3-mark).|mathematics|1|3
+533|Explain mathematics concept 1 (5-mark).|mathematics|2|5
+534|Define mathematics concept 2 (5-mark).|mathematics|2|5
+535|Describe mathematics concept 3 (5-mark).|mathematics|3|5
+536|Illustrate mathematics concept 4 (5-mark).|mathematics|3|5
+537|Explain mathematics concept 1 (10-mark).|mathematics|2|10
+538|Illustrate mathematics concept 2 (10-mark).|mathematics|3|10
+539|Illustrate mathematics concept 3 (10-mark).|mathematics|3|10
+540|What is mathematics concept 4 (10-mark).|mathematics|3|10
+541|Define pointers concept 1 (1-mark).|pointers|3|1
+542|What is pointers concept 2 (1-mark).|pointers|1|1
+543|Explain pointers concept 3 (1-mark).|pointers|2|1
+544|Describe pointers concept 4 (1-mark).|pointers|2|1
+545|What is pointers concept 1 (2-mark).|pointers|1|2
+546|What is pointers concept 2 (2-mark).|pointers|1|2
+547|Illustrate pointers concept 3 (2-mark).|pointers|2|2
+548|What is pointers concept 4 (2-mark).|pointers|1|2
+549|Explain pointers concept 1 (3-mark).|pointers|1|3
+550|Explain pointers concept 2 (3-mark).|pointers|3|3
+551|Define pointers concept 3 (3-mark).|pointers|3|3
+552|Define pointers concept 4 (3-mark).|pointers|3|3
+553|Explain pointers concept 1 (5-mark).|pointers|2|5
+554|What is pointers concept 2 (5-mark).|pointers|3|5
+555|Define pointers concept 3 (5-mark).|pointers|2|5
+556|Illustrate pointers concept 4 (5-mark).|pointers|3|5
+557|Define pointers concept 1 (10-mark).|pointers|3|10
+558|What is pointers concept 2 (10-mark).|pointers|3|10
+559|Explain pointers concept 3 (10-mark).|pointers|1|10
+560|Illustrate pointers concept 4 (10-mark).|pointers|2|10
+561|Describe oop concept 1 (1-mark).|oop|2|1
+562|What is oop concept 2 (1-mark).|oop|1|1
+563|Explain oop concept 3 (1-mark).|oop|3|1
+564|What is oop concept 4 (1-mark).|oop|1|1
+565|Define oop concept 1 (2-mark).|oop|3|2
+566|Explain oop concept 2 (2-mark).|oop|1|2
+567|Describe oop concept 3 (2-mark).|oop|2|2
+568|Describe oop concept 4 (2-mark).|oop|2|2
+569|Illustrate oop concept 1 (3-mark).|oop|3|3
+570|What is oop concept 2 (3-mark).|oop|2|3
+571|Describe oop concept 3 (3-mark).|oop|1|3
+572|Explain oop concept 4 (3-mark).|oop|1|3
+573|Describe oop concept 1 (5-mark).|oop|2|5
+574|What is oop concept 2 (5-mark).|oop|2|5
+575|Define oop concept 3 (5-mark).|oop|3|5
+576|Explain oop concept 4 (5-mark).|oop|2|5
+577|Explain oop concept 1 (10-mark).|oop|2|10
+578|Define oop concept 2 (10-mark).|oop|1|10
+579|What is oop concept 3 (10-mark).|oop|1|10
+580|Explain oop concept 4 (10-mark).|oop|1|10
+581|Define files concept 1 (1-mark).|files|3|1
+582|Define files concept 2 (1-mark).|files|2|1
+583|Describe files concept 3 (1-mark).|files|2|1
+584|What is files concept 4 (1-mark).|files|1|1
+585|Explain files concept 1 (2-mark).|files|1|2
+586|Describe files concept 2 (2-mark).|files|3|2
+587|Describe files concept 3 (2-mark).|files|1|2
+588|Describe files concept 4 (2-mark).|files|3|2
+589|Illustrate files concept 1 (3-mark).|files|3|3
+590|Define files concept 2 (3-mark).|files|2|3
+591|What is files concept 3 (3-mark).|files|1|3
+592|Explain files concept 4 (3-mark).|files|3|3
+593|What is files concept 1 (5-mark).|files|3|5
+594|Define files concept 2 (5-mark).|files|1|5
+595|Illustrate files concept 3 (5-mark).|files|2|5
+596|Define files concept 4 (5-mark).|files|1|5
+597|Illustrate files concept 1 (10-mark).|files|3|10
+598|Illustrate files concept 2 (10-mark).|files|1|10
+599|Describe files concept 3 (10-mark).|files|2|10
+600|Define files concept 4 (10-mark).|files|1|10
